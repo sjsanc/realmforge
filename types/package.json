@@ -1,0 +1,12 @@
+{
+  "name": "@realmforge/types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.d.ts",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
